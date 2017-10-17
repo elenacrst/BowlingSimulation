@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BowlingSimulation</string>
+    <string name="button_play">play now</string>
+    <string name="button_instructions">check instructions</string>
+    <string name="instructions_title">Instructions</string>
+    <string name="instructions_text">This is just a simulation of a bowling game. The result of each shot is generated randomly.\nA game consists of 10 frames per bowler and one extra shot if needed. For each frame, a bowler has 2 shots.\nNotes: The result is strike when a player knocks down all 10 pins in the first shot of a frame. In this situation, the score of that frame is 10 + the number of pins knocked down within the next 2 shots. The result is spare when a bowler knocks down all 10 pins using both shots of the same frame. In this situation, the score for that frame is 10 + the number of pins knocked down during the next shot.</string>
+    <string name="learn_more_button">Learn more</string>
+    <string name="frame_text">Frame\nnumber</string>
+    <string name="your_turn_text">Your\nturn</string>
+    <string name="computer_turn_text">Computer\'s\nTurn</string>
+    <string name="reset">Reset</string>
+    <string name="text_pins">%d pins</string>
+    <string name="text_score">It\'s tie! Score: %d</string>
+</resources>
